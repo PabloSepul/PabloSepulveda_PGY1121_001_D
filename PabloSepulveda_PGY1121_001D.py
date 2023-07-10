@@ -75,7 +75,7 @@ while True:
                         indice=listaasientossilver.index
                         contadorsilver+=1
         case "2":
-            pass
+            asientos()
         case "3":
             pass
         case "4":
